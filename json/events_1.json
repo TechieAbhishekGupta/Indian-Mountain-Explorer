@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Guided Hike: Himalayan Trek",
+		"date": "2024-04-15",
+		"description": "Join us for an adventurous trek through the majestic Himalayan ranges, with panoramic views of snow-capped peaks.",
+		"registrationLink": "#"
+	},
+	{
+		"name": "Mountain Music Festival: Rishikesh",
+		"date": "2024-05-20",
+		"description": "Immerse yourself in live music performances by local and international artists, set against the stunning backdrop of the Ganges and the Rishikesh hills.",
+		"registrationLink": "#"
+	},
+	{
+		"name": "Photography Workshop: Nature & Wildlife",
+		"date": "2024-06-10",
+		"description": "Capture the vibrant beauty of India’s wildlife and nature with professional photographers in the pristine landscapes of Jim Corbett National Park.",
+		"registrationLink": "#"
+	}
+]

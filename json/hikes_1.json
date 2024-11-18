@@ -1,0 +1,116 @@
+{
+  "hikes": [
+    {
+      "park": "Jim Corbett National Park",
+      "trailName": "Kosi River Trail",
+      "difficultyLevel": "Moderate",
+      "length": 5,
+      "activity": "Hiking",
+      "shortDescription": "A popular trail that leads to the serene Kosi River and provides chances to spot wildlife.",
+      "longDescription": "The Kosi River Trail in Jim Corbett National Park offers a scenic journey through dense forests along the Kosi River. The relatively easy trail takes you through lush jungle landscapes with a high chance of spotting wildlife, including spotted deer, wild boar, and various bird species. A highlight of the hike is the peaceful sound of the river, combined with views of the nearby hills. There are some uphill sections, so it’s best to wear sturdy footwear.",
+      "images": [
+        "./../../images/user_images/banff_img-1.jpg",
+        "./../../images/user_images/banff_img-2.jpg"
+      ],
+      "source": "Corbett National Park Official Website"
+    },
+    {
+      "park": "Valley of Flowers National Park",
+      "trailName": "Valley of Flowers Trail",
+      "difficultyLevel": "Easy",
+      "length": 4,
+      "activity": "Hiking",
+      "shortDescription": "A trail passing through an enchanting valley filled with a vibrant array of alpine flowers.",
+      "longDescription": "The Valley of Flowers Trail is located in the UNESCO-listed Valley of Flowers National Park, Uttarakhand. This easy, short trail takes you through a lush landscape dotted with colorful alpine flowers during the summer months. The valley is famous for its diverse flora, including orchids, poppies, and rhododendrons, all set against a backdrop of snow-capped mountains. The trail is suitable for all hikers and offers stunning views for photography enthusiasts.",
+      "images": [
+        "./../../images/user_images/jasper_img_1.jpg",
+        "./../../images/user_images/jasper_img_2.jpg"
+      ],
+      "source": "Valley of Flowers Official Website"
+    },
+    {
+      "park": "Kanha National Park",
+      "trailName": "Bamni Dadar Trail",
+      "difficultyLevel": "Moderate",
+      "length": 10,
+      "activity": "Hiking",
+      "shortDescription": "A trail leading to the famous Bamni Dadar viewpoint, offering sweeping views of the park.",
+      "longDescription": "The Bamni Dadar Trail in Kanha National Park takes you on a moderate hike through the park's dense forests, leading to a popular viewpoint offering panoramic views of the park. The highlight of the trail is the viewpoint itself, where visitors often catch sight of the park's famous tigers, along with other wildlife like deer, langurs, and wild boar. The trail crosses several streams and meadows, providing an excellent opportunity to spot wildlife along the way.",
+      "images": [
+        "./../../images/user_images/kootenay_img_1.jpg",
+        "./../../images/user_images/kootenay_img_2.jpg"
+      ],
+      "source": "Kanha National Park Official Website"
+    },
+    {
+      "park": "Nanda Devi Biosphere Reserve",
+      "trailName": "Nanda Devi Base Camp Trail",
+      "difficultyLevel": "Difficult",
+      "length": 17,
+      "activity": "Hiking",
+      "shortDescription": "A challenging trail leading to the base camp of Nanda Devi, offering stunning views of the peak and surrounding valleys.",
+      "longDescription": "The Nanda Devi Base Camp Trail is one of the most difficult but rewarding treks in Uttarakhand. The trek takes you to the base of Nanda Devi, India's second-highest peak, offering views of the majestic mountain and its glaciers. The trail passes through rugged terrain, alpine meadows, and small villages, with steep ascents and challenging sections like narrow ridges. This trek is perfect for experienced trekkers looking for a true Himalayan adventure.",
+      "images": [
+        "./../../images/user_images/revelstoke_img_1.jpg",
+        "./../../images/user_images/revelstoke_img_2.jpg"
+      ],
+      "source": "Nanda Devi Biosphere Reserve Official Website"
+    },
+    {
+      "park": "Sundarbans National Park",
+      "trailName": "Sundarbans Mangrove Trail",
+      "difficultyLevel": "Easy",
+      "length": 5,
+      "activity": "Walking Tour",
+      "shortDescription": "A peaceful walk through the world's largest mangrove forest, famous for its tiger population.",
+      "longDescription": "The Sundarbans Mangrove Trail is a unique experience that takes you through the dense, tidal mangrove forests of the Sundarbans. The trail offers a rare opportunity to explore this UNESCO World Heritage site, home to the famous Bengal tigers. The trail is easy, though navigating the muddy paths can sometimes be challenging, and it is recommended to visit with a guide to spot wildlife such as crocodiles, wild boar, and various bird species. The unique landscape, with its tidal waterways and dense forest, makes for a fascinating adventure.",
+      "images": [
+        "./../../images/user_images/sundarbans_img_1.jpg",
+        "./../../images/user_images/sundarbans_img_2.webp"
+      ],
+      "source": "Sundarbans National Park Official Website"
+    },
+    {
+      "park": "Tawang War Memorial & Bumla Pass",
+      "trailName": "Bumla Pass Trek",
+      "difficultyLevel": "Moderate",
+      "length": 8,
+      "activity": "Hiking",
+      "shortDescription": "A trail leading to the Indo-China border at Bumla Pass with breathtaking mountain views.",
+      "longDescription": "The Bumla Pass trek in Arunachal Pradesh takes you to one of the highest motorable passes in India, situated on the Indo-China border. The trek offers stunning views of the Eastern Himalayas and takes you through rugged terrain and alpine forests. Visitors can also explore the Tawang War Memorial, dedicated to the soldiers who lost their lives in the 1962 Indo-China war. This trek is an excellent blend of adventure, history, and natural beauty.",
+      "images": [
+        "./../../images/user_images/bumlapass_img_1.jpg",
+        "./../../images/user_images/bumlapass_img_2.jpg"
+      ],
+      "source": "Tawang District Tourism"
+    },
+    {
+      "park": "Meghalaya - Living Root Bridges",
+      "trailName": "Double Decker Root Bridge Trail",
+      "difficultyLevel": "Moderate",
+      "length": 5,
+      "activity": "Hiking",
+      "shortDescription": "A trek through the misty forests to reach the iconic Double Decker Root Bridge.",
+      "longDescription": "The Double Decker Root Bridge in Meghalaya is one of the most unique natural wonders in India. This trail takes you through dense forests, past waterfalls and streams, and eventually leads to the famous double-decker bridge made of living tree roots. The trek is moderate in difficulty, involving steep climbs, but the stunning views of the bridge and surrounding valleys make it worth the effort. This is a must-visit for nature lovers and those interested in indigenous tree-harnessing techniques.",
+      "images": [
+        "./../../images/user_images/rootbridge_img_1.jpg",
+        "./../../images/user_images/rootbridge_img_2.webp"
+      ],
+      "source": "Meghalaya Tourism"
+    },
+    {
+      "park": "Rishikesh",
+      "trailName": "Neelkanth Mahadev Trail",
+      "difficultyLevel": "Moderate",
+      "length": 12,
+      "activity": "Hiking",
+      "shortDescription": "A spiritual and scenic trail leading to the Neelkanth Mahadev Temple.",
+      "longDescription": "The Neelkanth Mahadev Trail near Rishikesh is a moderately challenging hike that takes you up the hills to the sacred Neelkanth Mahadev Temple, dedicated to Lord Shiva. The trail weaves through lush forest, with panoramic views of the surrounding mountains and the holy Ganges River below. Pilgrims and hikers alike visit this temple, with a serene and peaceful atmosphere enhancing the experience. The temple sits at an altitude of about 1,330 meters, providing a stunning backdrop of the surrounding hills and valleys.",
+      "images": [
+        "./../../images/user_images/neelkanth_img_2.jpg",
+        "./../../images/user_images/neelkanth_img_1.jpg"
+      ],
+      "source": "Rishikesh Tourism"
+    }
+  ]
+}
