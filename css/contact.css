@@ -36,7 +36,7 @@
 	display: block;
 	margin: 0 auto 10px;
 }
-
+/* 
 .feedback {
 	display: flex;
 	flex-direction: column;
@@ -59,4 +59,74 @@
 .feedback_img {
 	max-width: 100%;
 	height: auto;
+} */
+
+.feedback {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.contact_form {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	width: 100%;
+	flex-wrap: wrap;
+	/* Allow wrapping on smaller screens */
+}
+
+.contact_form form {
+	flex: 1;
+	margin-right: 20px;
+}
+
+.feedback_img {
+	max-width: 100%;
+	height: auto;
+	margin-top: 20px;
+	/* Add space between form and image */
+}
+
+/* For small screens (mobile devices) */
+@media (max-width: 768px) {
+	.contact_form {
+		flex-direction: column;
+		/* Stack the form and image vertically */
+		align-items: center;
+		/* Center align the form and image */
+	}
+
+	.contact_form form {
+		margin-right: 0;
+		width: 100%;
+		/* Ensure form takes up full width on small screens */
+	}
+
+	.feedback_img {
+		width: 100%;
+		/* Make image responsive */
+		margin-top: 20px;
+	}
+
+	/* Adjust the paragraph text for smaller screens */
+	.feedback_title p {
+		font-size: 14px;
+		/* Reduce font size for mobile */
+		text-align: center;
+		/* Center align text */
+		margin: 0 20px;
+		/* Add some horizontal padding for better readability */
+	}
+}
+
+/* For very small screens (portrait phones) */
+@media (max-width: 480px) {
+	.feedback_title p {
+		font-size: 12px;
+		/* Further reduce font size for very small screens */
+		margin: 0 10px;
+		/* Adjust padding to fit the screen */
+	}
 }

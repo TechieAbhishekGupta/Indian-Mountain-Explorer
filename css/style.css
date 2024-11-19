@@ -3,7 +3,7 @@
  * Name: Abhishek Gupta
  * Student ID: 21810094
  */
- 
+
 /* Importing Font Locally */
 @import url('fonts.css');
 
@@ -119,21 +119,52 @@ button:hover {
 }
 
 /* Go to top Btn Starts */
-#goToTopBtn {
+
+/* #goToTopBtn {
 	display: none;
-	/* Hiding the button by default */
 	position: fixed;
-	bottom: 30px;
-	right: 30px;
-	padding: 10px 20px;
-	font-size: 16px;
+	bottom: 20px;
+	left: 30px;
+	width: 50px;
+	height: 50px;
 	background-color: grey;
 	color: white;
+	font-size: 24px;
+	
 	font-weight: bold;
 	border: none;
-	border-radius: 5px;
+	border-radius: 50%;
 	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+} */
+
+/* Go to top Btn Starts */
+
+#goToTopBtn {
+	visibility: hidden;
+	/* Button is hidden by default */
+	position: fixed;
+	bottom: 20px;
+	left: 30px;
+	width: 50px;
+	height: 50px;
+	background-color: grey;
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	border: none;
+	border-radius: 50%;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
 }
+
+/* Go to top Btn Ends */
 
 /* Go to top Btn Starts */
 
@@ -404,6 +435,10 @@ footer {
 	/* Rounded corners for the image */
 }
 
+#majestic img:hover {
+	transform: scale(1.1);
+}
+
 /* Text styling */
 #majestic h2 {
 	font-size: 2.5rem;
@@ -460,6 +495,11 @@ footer {
 	display: flex;
 	align-items: center;
 }
+
+#adventure_center_img :hover {
+	transform: scale(1.1);
+}
+
 
 #left_sub_adventure>div:hover,
 #right_sub_adventure>div:hover {
